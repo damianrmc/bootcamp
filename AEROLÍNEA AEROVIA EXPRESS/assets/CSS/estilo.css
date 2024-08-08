@@ -1,0 +1,34 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marca{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navColorPersonalizado{
+    background-color: #051B54;
+    color: white !important;
+}
+
+.btn-personalizado{
+    background-color: #FFFFFF33;
+}
+
+.apartado{
+    background-color: #62DAD3;
+}
+
+.redondeoP1{
+    border-top-left-radius: 0.80rem !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 0.80rem !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.redondeoP2{
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0.80rem !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0.80rem !important;
+}
